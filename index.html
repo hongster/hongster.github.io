@@ -1,70 +1,90 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://kit.fontawesome.com/5c50bc3587.js" crossorigin="anonymous"></script>
-
-    <title>About Hong</title>
+<head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="https://www.gravatar.com/avatar/7d37e5405950d1fac77cd499838beac5" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#212F3C" />
+    <meta name="description" content="Links To My Accounts | Developed By - Leong Hean Hong" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Links - Leong Hean Hong</title>
     <style>
-       body {
-           color: #f1c40f;
-           background-color: #212f3c;
-       }
+        body {
+            background-color: #f8f9f9;
+        }
 
-       #profile-left h1 {
-           color: #f39c12;
-       }
+        h5 {
+            color: #212F3C;
+        }
 
-       #profile-left a {
-           color: #f1c40f;
-       }
+        .name {
+            color: #212F3C;
+        }
+
+        .love {
+            color: #212F3C !important;
+        }
+
+        /*----------------- Mail-------------------- */
+        #email {
+            text-decoration: none;
+            float: right;
+            color: #212F3C;
+        }
+
+        .footer {
+            margin-top: 5% !important;
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 479px) {
+            .footer {
+                margin-top: 35% !important;
+            }
+        }
     </style>
+</head>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-17448966-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-17448966-1');
-    </script>
-  </head>
-  <body>
+<body>
     <div class="container">
-        <div class="row mt-5" id="profile">
-            <div class="col-sm text-sm-right" id="profile-left">
-                <h1 class="mt-5 mb-3">Leong Hean Hong 梁贤鸿</h1>
-
-                <p>
-                    I am a Software Architect from Malaysia.<br />
-                    I use software technologies to solve customer's problems.<br />
-                    I work with a great team of developers to implement those solutions.<br />
-                    I am also an aspiring ballroom dancer.<br />
-                </p>
-                
-                <p>
-                    <a href="&#109;ailto&#58;&#104;%6F&#37;6E&#103;&#37;&#52;&#48;mrl&#101;o&#110;g%2E%&#54;E%65t"><i class="fas fa-envelope fa-2x"></i></a>
-                    <a href="https://www.instagram.com/hongster85/"><i class="fab fa-instagram fa-2x"></i></a>
-                    <a href="https://tech.mrleong.net/"><i class="fas fa-rss-square fa-2x"></i></a>
-                    <a href="https://www.linkedin.com/in/hongster/"><i class="fab fa-linkedin fa-2x"></i></a>
-                </p>
-            </div>
-
-            <div class="col-sm" id="profile-right">
-                <img src="https://www.gravatar.com/avatar/7d37e5405950d1fac77cd499838beac5?s=400" class="img-fluid" alt="Avatar">
+        <div class="media mt-5">
+            <img src="https://www.gravatar.com/avatar/7d37e5405950d1fac77cd499838beac5" class="m-3" alt="image"
+                width="75px" height="75px">
+            <div class="media-body m-2">
+                <h5 class="align-items-center mt-2">Leong Hean Hong 粱贤鸿</h5>
+                <p>Hello!
+                    I am Hongster.
+                    Developer based in Johor Bahru, Malaysia.</p>
             </div>
         </div>
-    </div><!-- /content -->
+        <div class="mt-4">
+            <a href="https://tech.mrleong.net" class="btn btn-outline-dark btn-block" role="button" target="_blank"><i
+                    class="fa fa-blog">&nbsp;</i>Tech Blog</a>
+            <br>
+            <a href="https://www.instagram.com/hongster85" class="btn btn-outline-dark btn-block" role="button"
+                target="_blank"><i class="fab fa-instagram">&nbsp;</i>Instagram</a>
+            <br>
+            <a href="https://github.com/hongster" class="btn btn-outline-dark btn-block" role="button"
+                target="_blank"><i class="fab fa-github">&nbsp;</i>Github</a>
+            <br>
+        </div>
+        <!--------------------Footer---------------------------->
+        <div class="footer mt-5">
+            <hr />
+            <h6>Made With <span class="love">♥</span> in JB, Malaysia</h6>
+            <h6>
+                Proudly Hosted By
+                <a href="https://pages.github.com" class="name" target="_blank">Github Pages</a>
+                <a id="email"
+                    href="mailto:&#104;&#111;&#110;&#103;&#064;&#109;&#114;&#108;&#101;&#111;&#110;&#103;&#046;&#110;&#101;&#116;">
+                    <i class="fa fa-envelope"> </i> </a>
+            </h6>
+        </div>
+    </div>
+</body>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-  </body>
 </html>
