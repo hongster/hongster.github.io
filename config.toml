@@ -3,6 +3,7 @@ defaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Hongster 鸿"
 theme = "LoveIt"
+enableEmoji = true
 
 # LoveIt theme: https://bit.ly/3zk0aZh
 [params]
@@ -43,10 +44,11 @@ theme = "LoveIt"
 
   [params.social]
     Email = "hong@mrleong.net"
-    Telegram = "hongster"
-    Keybase = "hongster"
     Github = "hongster"
+    Instagram = "hongster85"
+    Keybase = "hongster"
     Reddit = "hongster"
+    Telegram = "hongster"
 
 [menu]
   [[menu.main]]
