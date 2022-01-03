@@ -60,23 +60,23 @@ enableEmoji = true
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "All blog posts"
     weight = 1
+  [[menu.main]]
+    identifier = "dancing"
+    pre = ""
+    post = ""
+    name = "Dancing"
+    url = "/categories/dancing/"
+    title = "Dancer life"
+    weight = 2
   [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""
     name = "Tags"
     url = "/tags/"
-    title = ""
-    weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
+    title = "Tagged posts"
     weight = 3
 
 # Footer config
