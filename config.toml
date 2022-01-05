@@ -50,6 +50,31 @@ enableEmoji = true
     Reddit = "hongster"
     Telegram = "hongster"
 
+  # Footer config
+  [params.footer]
+    enable = true
+    # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
+    custom = ''
+    # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
+    hugo = true
+    # LoveIt NEW | 0.2.0 whether to show copyright info
+    copyright = true
+    # LoveIt NEW | 0.2.0 whether to show the author
+    author = true
+    # Site creation time
+    since = 2022
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
+
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "UA-17448966-1"
+      anonymizeIP = true
+
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -78,24 +103,6 @@ enableEmoji = true
     url = "/tags/"
     title = "Tagged posts"
     weight = 3
-
-# Footer config
-  [params.footer]
-    enable = true
-    # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
-    custom = ''
-    # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
-    hugo = true
-    # LoveIt NEW | 0.2.0 whether to show copyright info
-    copyright = true
-    # LoveIt NEW | 0.2.0 whether to show the author
-    author = true
-    # Site creation time
-    since = 2022
-    # ICP info only in China (HTML format is supported)
-    icp = ""
-    # license info (HTML format is supported)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>'
 
 # Markup related configuration in Hugo
 [markup]
