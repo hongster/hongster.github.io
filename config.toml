@@ -89,20 +89,22 @@ enableEmoji = true
     weight = 1
   [[menu.main]]
     identifier = "dancing"
-    pre = ""
-    post = ""
     name = "Dancing"
     url = "/categories/dancing/"
     title = "Dancer life"
     weight = 2
   [[menu.main]]
+    identifier = "food"
+    name = "Johor"
+    title = "Favorite food places in Johor"
+    url = "/food/favorite-johor-food-places"
+    weight = 3
+  [[menu.main]]
     identifier = "tags"
-    pre = ""
-    post = ""
     name = "Tags"
     url = "/tags/"
     title = "Tagged posts"
-    weight = 3
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]

@@ -1,0 +1,21 @@
+[food]
+    [[food."Laksa"]]
+        name = "Restoran Yew Swee 友水餐室"
+        address = "64, Jalan Harimau Tarum, Taman Century, 80300 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/kQXrz6UCK8fNpeDdA"
+    [[food."Laksa"]]
+        name = "W.W. Laksa House 水塘。辣沙"
+        address = "36A1, Jalan Kolam Air, Taman Kolam Air, 80100 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/7qYCUwkA7XrT6GdQ7"
+    [[food."Wonton Mee"]]
+        name = "Restoran HW 海威云吞面"
+        address = "68, Jalan Abiad, Taman Maju Jaya, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/3ZYRvhowZy5KUZ7g8"
+    [[food."Wonton Mee"]]
+        name = "Kedai Kopi Xuu Yau 品苑云吞面"
+        address = "54, Jalan Tan Hiok Nee, 80000 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/rkkLpBjYX6Ay5QQo9"
+    [[food."Wonton Mee"]]
+        name = "Restauran Yit Foh 益和云吞面"
+        address = "153, Jalan Harimau, Taman Abad, 80250 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/HK8qH9hNLsBV6rCn6"
