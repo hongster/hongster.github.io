@@ -1,4 +1,12 @@
 [food]
+    [[food."Japanese Ramen"]]
+        name = "Kinnokura Izakaya Japanese Restaurant 金の藏居酒屋"
+        address = "85, Jalan Harimau Tarum, Taman Century, 80250 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/a4KRiRSqdHSJZYbS9"
+    [[food."Japanese Ramen"]]
+        name = "Ramen Hitoyoshi"
+        address = "51, Jalan Austin Heights 8/3, Taman Mount Austin, 81100 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/feJfSTfA33YV4eBo6"
     [[food."Laksa"]]
         name = "Restoran Yew Swee 友水餐室"
         address = "64, Jalan Harimau Tarum, Taman Century, 80300 Johor Bahru, Johor"
@@ -7,14 +15,22 @@
         name = "W.W. Laksa House 水塘。辣沙"
         address = "36A1, Jalan Kolam Air, Taman Kolam Air, 80100 Johor Bahru, Johor"
         link = "https://goo.gl/maps/7qYCUwkA7XrT6GdQ7"
-    [[food."Wonton Mee"]]
-        name = "Restoran HW 海威云吞面"
-        address = "68, Jalan Abiad, Taman Maju Jaya, 80400 Johor Bahru, Johor"
-        link = "https://goo.gl/maps/3ZYRvhowZy5KUZ7g8"
+    [[food."Roti Canai"]]
+        name = "Restoran Md. Salleh"
+        address = "22, Jalan Pingai, Taman Pelangi, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/gwYmPSCumDJjPCTT6"
+    [[food."Roti Canai"]]
+        name = "Restoran Zaidi"
+        address = "11, Jalan Anggerik 2, Taman Anggerik, 81200 Johor Bahru, Johor"
+        link = "https://g.page/restoran-zaidi?share"
     [[food."Wonton Mee"]]
         name = "Kedai Kopi Xuu Yau 品苑云吞面"
         address = "54, Jalan Tan Hiok Nee, 80000 Johor Bahru, Johor"
         link = "https://goo.gl/maps/rkkLpBjYX6Ay5QQo9"
+    [[food."Wonton Mee"]]
+        name = "Restoran HW 海威云吞面"
+        address = "68, Jalan Abiad, Taman Maju Jaya, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/3ZYRvhowZy5KUZ7g8"
     [[food."Wonton Mee"]]
         name = "Restauran Yit Foh 益和云吞面"
         address = "153, Jalan Harimau, Taman Abad, 80250 Johor Bahru, Johor"

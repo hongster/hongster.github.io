@@ -10,4 +10,6 @@
 Address: [{{ .address }}]({{ .link }})
     {{ end }}
 
+---
+
 {{ end }}
