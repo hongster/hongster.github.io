@@ -1,4 +1,16 @@
 [food]
+    [[food."Burger"]]
+        name = "Woodfire"
+        address = "Eco Spring, SL006, Spring Labs, Lot D, Jalan Ekoflora Utama, 81100 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/LNySPVU4RQGQcYSZ6"
+    [[food."Chicken Chop"]]
+        name = "Gebekk western Food"
+        address = "Unit SL-007, Spring Lab, Lok K, Jalan Ekoflora Utama, Taman Ekoflora, 81100 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/ns9dLYUnsaiNy26M8"
+    [[food."Chicken Chop"]]
+        name = "Restoran Hua Mui 华美"
+        address = "131, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor"
+        link = "https://g.page/huamuijb?share"
     [[food."Japanese Ramen"]]
         name = "Kinnokura Izakaya Japanese Restaurant 金の藏居酒屋"
         address = "85, Jalan Harimau Tarum, Taman Century, 80250 Johor Bahru, Johor"
@@ -35,3 +47,11 @@
         name = "Restauran Yit Foh 益和云吞面"
         address = "153, Jalan Harimau, Taman Abad, 80250 Johor Bahru, Johor"
         link = "https://goo.gl/maps/HK8qH9hNLsBV6rCn6"
+    [[food."面粉粿"]]
+        name = "Grandma Ong 王奶奶"
+        address = "43, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/252Y8AY9TRVni6Rx5"
+    [[food."面粉粿"]]
+        name = "真功夫手工面粉粿"
+        address = "G-09 Bistari Impian JB, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/jiBUSatVjsTDQdSq6"

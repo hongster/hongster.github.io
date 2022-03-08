@@ -95,7 +95,7 @@ enableEmoji = true
     weight = 2
   [[menu.main]]
     identifier = "food"
-    name = "Johor"
+    name = "Johor Food"
     title = "Favorite food places in Johor"
     url = "/food/favorite-johor-food-places"
     weight = 3
