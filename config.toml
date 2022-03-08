@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Hongster 鸿"
 theme = "LoveIt"
 enableEmoji = true
+enableRobotsTXT = true
 
 # LoveIt theme: https://bit.ly/3zk0aZh
 [params]
