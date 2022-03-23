@@ -11,6 +11,26 @@
         name = "Restoran Hua Mui 华美"
         address = "131, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor"
         link = "https://g.page/huamuijb?share"
+    [[food."Chicken Rice"]]
+        name = "Kakilang Kopitiam 自己人美食阁"
+        address = "2, Jalan Abiad 2, Taman Pelangi, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/fpg72yKC1762huZB7"
+    [[food."Chicken Rice"]]
+        name = "Lucky Corner Chicken Rice 旺角鸡饭咖啡屋"
+        address = "61, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/GzgHZuWcrvKWweKSA"
+    [[food."粿条汤"]]
+        name = "Ah Meng Kue Teow 亞明粿條"
+        address = "112, Jalan Meranti, Taman Melodies, 80250 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/ia4jdLiNrs22G5UY7"
+    [[food."粿条汤"]]
+        name = "Tua Thow Restaurant 大头果条"
+        address = "Jalan Tun Abdul Razak (Susur 4), Taman Bakti, 80100 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/BsMrjr7E56fsdzYo9"
+    [[food."粿条汤"]]
+        name = "Lautan Kopitiam 老陈粿条汤"
+        address = "58, Jalan Molek 1/28, Taman Molek 81100 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/K6NHevD8JgTJv9Cd7"
     [[food."Japanese Ramen"]]
         name = "Kinnokura Izakaya Japanese Restaurant 金の藏居酒屋"
         address = "85, Jalan Harimau Tarum, Taman Century, 80250 Johor Bahru, Johor"
@@ -27,6 +47,30 @@
         name = "W.W. Laksa House 水塘。辣沙"
         address = "36A1, Jalan Kolam Air, Taman Kolam Air, 80100 Johor Bahru, Johor"
         link = "https://goo.gl/maps/7qYCUwkA7XrT6GdQ7"
+    [[food."Mee Rebus"]]
+        name = "Mee Rebus House"
+        address = "8, Jalan Balau, Taman Kebun Teh, 80250 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/gphYxQkTPatw1zzm9"
+    [[food."Mee Rebus"]]
+        name = "Zainal's Place"
+        address = "89, Jalan Keris, Taman Sri Tebrau, 80050 Johor Bahru, Johor"
+        link = "https://g.page/Zainalsplace?share"
+    [[food."面粉粿"]]
+        name = "Grandma Ong 王奶奶"
+        address = "43, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/252Y8AY9TRVni6Rx5"
+    [[food."面粉粿"]]
+        name = "真功夫手工面粉粿"
+        address = "G-09 Bistari Impian JB, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/jiBUSatVjsTDQdSq6"
+    [[food."Pho"]]
+        name = "Chimmy Chummy"
+        address = "Unit G9, Plaza Mentari (Sun City), Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/RvwBw65wH1aiERqQ9"
+    [[food."Pho"]]
+        name = "Hanoi Cafe 河内越南牛肉粉"
+        address = "4, Jalan Sutera 2, Taman Sentosa, 80150 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/vRBF1Y2hujNYJdgt5"
     [[food."Roti Canai"]]
         name = "Restoran Md. Salleh"
         address = "22, Jalan Pingai, Taman Pelangi, 80400 Johor Bahru, Johor"
@@ -47,11 +91,3 @@
         name = "Restauran Yit Foh 益和云吞面"
         address = "153, Jalan Harimau, Taman Abad, 80250 Johor Bahru, Johor"
         link = "https://goo.gl/maps/HK8qH9hNLsBV6rCn6"
-    [[food."面粉粿"]]
-        name = "Grandma Ong 王奶奶"
-        address = "43, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor"
-        link = "https://goo.gl/maps/252Y8AY9TRVni6Rx5"
-    [[food."面粉粿"]]
-        name = "真功夫手工面粉粿"
-        address = "G-09 Bistari Impian JB, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor"
-        link = "https://goo.gl/maps/jiBUSatVjsTDQdSq6"
