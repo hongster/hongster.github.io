@@ -95,10 +95,16 @@ enableRobotsTXT = true
     title = "Dancer life"
     weight = 2
   [[menu.main]]
-    identifier = "food"
+    identifier = "johor food"
     name = "Johor Food"
     title = "Favorite food places in Johor"
     url = "/food/favorite-johor-food-places"
+    weight = 3
+  [[menu.main]]
+    identifier = "kv food"
+    name = "KV Food"
+    title = "Favorite food places in Klang Valley"
+    url = "/food/favorite-klang-valley-food-places"
     weight = 3
   [[menu.main]]
     identifier = "tags"

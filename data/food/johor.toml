@@ -71,6 +71,10 @@
         name = "Hanoi Cafe 河内越南牛肉粉"
         address = "4, Jalan Sutera 2, Taman Sentosa, 80150 Johor Bahru, Johor"
         link = "https://goo.gl/maps/vRBF1Y2hujNYJdgt5"
+    [[food."Prawn Noodle"]]
+        name = "永春虾面 (成发茶餐室)"
+        address = "49, Jalan Kemuning, Taman Melodies, 80250 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/GWcjd6WMYxHjuxMt6"
     [[food."Roti Canai"]]
         name = "Restoran Md. Salleh"
         address = "22, Jalan Pingai, Taman Pelangi, 80400 Johor Bahru, Johor"

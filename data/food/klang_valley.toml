@@ -1,0 +1,13 @@
+[food]
+    [[food."Yong Tau Fu"]]
+        name = "126 Hakka Yong Tau Fu"
+        address = "Gerai No. 1, Jalan Intan Baiduri 11d, Taman Intan Baiduri, 52100 Kuala Lumpur"
+        link = "https://goo.gl/maps/hji5X4ZqnnMjtzCP8"
+    [[food."Vegetarian"]]
+        name = "Cameleon Beancurd Vegetarian Restaurant 甘味林素食餐厅"
+        address = "1, Jalan Thamboosamy, Off, Jalan Putra, Wilayah Persekutuan, 50350 Kuala Lumpur"
+        link = "https://goo.gl/maps/GicKYQPsPbYEJWxX6"
+    [[food."Vegetarian"]]
+        name = "Yuet Sum Hin Vegetarian Restaurant 悦心轩"
+        address = "No.8, Ground Floor, Jalan 1/77, Jalan Changkat Thambi Dollah, Off, Jln Pudu, 55100 Kuala Lumpur"
+        link = "https://goo.gl/maps/NrZxghRNBtA8Da5h9"
