@@ -7,6 +7,10 @@
         name = "Omega Pork Noodle @ Sri Petaling"
         address = "No 74, Ground Floor, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000 Kuala Lumpur"
         link = "https://goo.gl/maps/Yeh2aKcRaPqAyfog6"
+    [[food."Pork Noodle"]]
+        name = "Siew Kee Pork Noodle 兆基猪肉粉"
+        address = "16-34, Jalan Medan Putra 3, Medan Putra Bussiness Centre, 52200 Kuala Lumpur"
+        link = "https://goo.gl/maps/srvrin17zZSbcGPQ9"
     [[food."Vegetarian"]]
         name = "Cameleon Beancurd Vegetarian Restaurant 甘味林素食餐厅"
         address = "1, Jalan Thamboosamy, Off, Jalan Putra, Wilayah Persekutuan, 50350 Kuala Lumpur"

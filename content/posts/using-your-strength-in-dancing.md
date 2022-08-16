@@ -2,7 +2,7 @@
 title: "Using Your Strength in Dancing"
 date: 2022-08-11T10:09:08+08:00
 tags: ["dancing", "strength", "self reflection"]
-category: ["Dancing"]
+categories: ["Dancing"]
 draft: false
 ---
 
