@@ -86,11 +86,15 @@
     [[food."Wonton Mee"]]
         name = "Kedai Kopi Xuu Yau 品苑云吞面"
         address = "54, Jalan Tan Hiok Nee, 80000 Johor Bahru, Johor"
-        link = "https://goo.gl/maps/rkkLpBjYX6Ay5QQo9"
+        link = "https://goo.gl/maps/u5HCVjx2pd8SPFVf7"
     [[food."Wonton Mee"]]
         name = "Restoran HW 海威云吞面"
         address = "68, Jalan Abiad, Taman Maju Jaya, 80400 Johor Bahru, Johor"
         link = "https://goo.gl/maps/3ZYRvhowZy5KUZ7g8"
+    [[food."Wonton Mee"]]
+        name = "Restoran Voon Ji 文记云吞面"
+        address = "250, Jalan Sutera, Taman Sentosa, 80150 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/SuVjrGF2vxHSsFwn6"
     [[food."Wonton Mee"]]
         name = "Restauran Yit Foh 益和云吞面"
         address = "153, Jalan Harimau, Taman Abad, 80250 Johor Bahru, Johor"
