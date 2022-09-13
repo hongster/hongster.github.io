@@ -19,6 +19,10 @@
         name = "Lucky Corner Chicken Rice 旺角鸡饭咖啡屋"
         address = "61, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor"
         link = "https://goo.gl/maps/GzgHZuWcrvKWweKSA"
+    [[food."Dim Sum"]]
+        name = "Onggi Dimsum Restaurant 王家点心茶楼"
+        address = "2, Jalan NB2 2/1, Taman Nusa Bestari 2, 81300 Skudai, Johor"
+        link = "https://goo.gl/maps/ohvwbUn6545Mz3xZ6"
     [[food."粿条汤"]]
         name = "Ah Meng Kue Teow 亞明粿條"
         address = "112, Jalan Meranti, Taman Melodies, 80250 Johor Bahru, Johor"
