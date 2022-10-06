@@ -23,6 +23,10 @@
         name = "Onggi Dimsum Restaurant 王家点心茶楼"
         address = "2, Jalan NB2 2/1, Taman Nusa Bestari 2, 81300 Skudai, Johor"
         link = "https://goo.gl/maps/ohvwbUn6545Mz3xZ6"
+    [[food."Dim Sum"]]
+        name = "Tasixi Hong Kong Dim Sum 大四喜香港点心小厨"
+        address = "1, Jalan Camar 1/3, Taman Perling, 81200 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/S3xt1a2GSU8Jso7c7"
     [[food."粿条汤"]]
         name = "Ah Meng Kue Teow 亞明粿條"
         address = "112, Jalan Meranti, Taman Melodies, 80250 Johor Bahru, Johor"
@@ -67,6 +71,10 @@
         name = "真功夫手工面粉粿"
         address = "G-09 Bistari Impian JB, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor"
         link = "https://goo.gl/maps/jiBUSatVjsTDQdSq6"
+    [[food."Noodle"]]
+        name = "Old Times Recipe 老臣子"
+        address = "107, Jalan Sri Pelangi, Taman Pelangi, 80400 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/adwHHFFUPoL6SpFKA"
     [[food."Pho"]]
         name = "Chimmy Chummy"
         address = "Unit G9, Plaza Mentari (Sun City), Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor"
