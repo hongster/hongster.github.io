@@ -1,4 +1,8 @@
 [food]
+    [[food."Beef Noodle"]]
+        name = "大丰牛肉面"
+        address = "12, Jalan Kasa 6, Taman Sentosa, 80150 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/71NiW2wQcBDC8wTZA"
     [[food."Burger"]]
         name = "Woodfire"
         address = "Eco Spring, SL006, Spring Labs, Lot D, Jalan Ekoflora Utama, 81100 Johor Bahru, Johor"
@@ -83,6 +87,10 @@
         name = "Hanoi Cafe 河内越南牛肉粉"
         address = "4, Jalan Sutera 2, Taman Sentosa, 80150 Johor Bahru, Johor"
         link = "https://goo.gl/maps/vRBF1Y2hujNYJdgt5"
+    [[food."Pho"]]
+        name = "V Taste"
+        address = "GF10, Jalan Daya 1, Taman Daya, 81100 Johor Bahru, Johor"
+        link = "https://goo.gl/maps/ZurqGGWYUKgF8qz77"
     [[food."Prawn Noodle"]]
         name = "永春虾面 (成发茶餐室)"
         address = "49, Jalan Kemuning, Taman Melodies, 80250 Johor Bahru, Johor"
