@@ -104,7 +104,7 @@
         address = "11, Jalan Anggerik 2, Taman Anggerik, 81200 Johor Bahru, Johor"
         link = "https://g.page/restoran-zaidi?share"
     [[food."Thai"]]
-        name = "Red chili Thai restaurant 红辣椒泰国餐馆"
+        name = "Red Chili Thai Restaurant 红辣椒泰国餐馆"
         address = "22, Jalan Ekoflora 6/6, Taman Ekoflora, 81100 Johor Bahru, Johor"
         link = "https://goo.gl/maps/JhYBfg1h6CxBaX4N8"
     [[food."Wonton Mee"]]
