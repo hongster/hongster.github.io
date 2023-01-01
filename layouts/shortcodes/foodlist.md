@@ -7,7 +7,12 @@
     {{ range $shops }}
 **{{ .name }}**
 
+        {{ range .addresses }}
+
 Address: [{{ .address }}]({{ .link }})
+
+        {{ end }}
+
     {{ end }}
 
 ---

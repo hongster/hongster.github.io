@@ -1,29 +1,41 @@
 [food]
     [[food."China Cuisine"]]
         name = "Restoran Fu Cheng 福成"
-        address = "6, Jalan 1/77b, Jalan Changkat Thambi Dollah, 55100 Kuala Lumpur"
-        link = "https://goo.gl/maps/CwakeKX67havkitZ8"
+        addresses = [
+            {address = "6, Jalan 1/77b, Jalan Changkat Thambi Dollah, 55100 Kuala Lumpur", link = "https://goo.gl/maps/CwakeKX67havkitZ8"},
+        ]
+    [[food."Japanese Ramen"]]
+        name = "Bari-Uma Ramen"
+        addresses = [
+            {address = "Lot L3-11, Level 3, Jaya Shopping Centre, Jalan Professor Khoo Kay Kim, Seksyen 14, 46100 Petaling Jaya, Selangor", link = "https://goo.gl/maps/Vq2GGmTdp48LrAvBA"},
+        ]
     [[food."Pork Noodle"]]
         name = "Omega Pork Noodle @ Sri Petaling"
-        address = "No 74, Ground Floor, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000 Kuala Lumpur"
-        link = "https://goo.gl/maps/Yeh2aKcRaPqAyfog6"
+        addresses = [
+            {address = "No 74, Ground Floor, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000 Kuala Lumpur", link = "https://goo.gl/maps/Yeh2aKcRaPqAyfog6"},
+        ]
     [[food."Pork Noodle"]]
         name = "Siew Kee Pork Noodle 兆基猪肉粉"
-        address = "16-34, Jalan Medan Putra 3, Medan Putra Bussiness Centre, 52200 Kuala Lumpur"
-        link = "https://goo.gl/maps/srvrin17zZSbcGPQ9"
+        addresses = [
+            {address = "16-34, Jalan Medan Putra 3, Medan Putra Bussiness Centre, 52200 Kuala Lumpur", link = "https://goo.gl/maps/srvrin17zZSbcGPQ9"},
+        ]
     [[food."Vegetarian"]]
         name = "Cameleon Beancurd Vegetarian Restaurant 甘味林素食餐厅"
-        address = "1, Jalan Thamboosamy, Off, Jalan Putra, Wilayah Persekutuan, 50350 Kuala Lumpur"
-        link = "https://goo.gl/maps/GicKYQPsPbYEJWxX6"
+        addresses = [
+            {address = "1, Jalan Thamboosamy, Off, Jalan Putra, Wilayah Persekutuan, 50350 Kuala Lumpur", link = "https://goo.gl/maps/GicKYQPsPbYEJWxX6"},
+        ]
     [[food."Vegetarian"]]
         name = "Yuet Sum Hin Vegetarian Restaurant 悦心轩"
-        address = "No.8, Ground Floor, Jalan 1/77, Jalan Changkat Thambi Dollah, Off, Jln Pudu, 55100 Kuala Lumpur"
-        link = "https://goo.gl/maps/NrZxghRNBtA8Da5h9"
+        addresses = [
+            {address = "No.8, Ground Floor, Jalan 1/77, Jalan Changkat Thambi Dollah, Off, Jln Pudu, 55100 Kuala Lumpur", link = "https://goo.gl/maps/NrZxghRNBtA8Da5h9"},
+        ]
     [[food."Yong Tau Fu"]]
         name = "126 Hakka Yong Tau Fu"
-        address = "Gerai No. 1, Jalan Intan Baiduri 11d, Taman Intan Baiduri, 52100 Kuala Lumpur"
-        link = "https://goo.gl/maps/hji5X4ZqnnMjtzCP8"
+        addresses = [
+            {address = "Gerai No. 1, Jalan Intan Baiduri 11d, Taman Intan Baiduri, 52100 Kuala Lumpur", link = "https://goo.gl/maps/hji5X4ZqnnMjtzCP8"},
+        ]
     [[food."烤鱼"]]
         name = "Fatt Kee Roast Fish 發記招牌特色烤鱼"
-        address = "Off Jalan Pasar, 25, Lorong Yap Hin, Pudu, 55100 Kuala Lumpur"
-        link = "https://goo.gl/maps/4U2tDGJy1hYSHv2a6"
+        addresses = [
+            {address = "Off Jalan Pasar, 25, Lorong Yap Hin, Pudu, 55100 Kuala Lumpur", link = "https://goo.gl/maps/4U2tDGJy1hYSHv2a6"},
+        ]
