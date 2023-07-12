@@ -34,6 +34,16 @@
         addresses = [
             {address = "Gerai No. 1, Jalan Intan Baiduri 11d, Taman Intan Baiduri, 52100 Kuala Lumpur", link = "https://goo.gl/maps/hji5X4ZqnnMjtzCP8"},
         ]
+    [[food."烧腊"]]
+        name = "Hong Kong Famous Roast Meals 香港名厨烧腊面饭店"
+        addresses = [
+            {address = "Food Court G-61, ICC Pudu, Jalan Kijang, Pudu, 55100 Kuala Lumpur", link = "https://goo.gl/maps/b9aYUZFT98aSBh4j9"}
+        ]
+    [[food."烧腊"]]
+        name = "Restoran Char Siew Yoong 叉烧杨家家来"
+        addresses = [
+            {address = "23, Jalan Pudu Ulu, Taman Pertama, 56100 Kuala Lumpur", link = "https://goo.gl/maps/2k4hNxgomeYVbxyY9"}
+        ]
     [[food."烤鱼"]]
         name = "Fatt Kee Roast Fish 發記招牌特色烤鱼"
         addresses = [
