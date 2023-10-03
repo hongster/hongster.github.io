@@ -1,6 +1,6 @@
 ---
 title: "Back To Nature Campsite Review"
-date: 2023-10-03T00:46:29+08:00
+date: 2023-10-04T00:07:00+08:00
 categories: ["Camping"]
 tags: ["review"]
 draft: false
@@ -12,11 +12,17 @@ draft: false
 
 # Impression
 
+![Back To Nature](signboard.jpg "Back To Nature")
+
 This is a well-maintained campsite, quite clean. It is suited at a beach, recommended for beach lovers.
 
-The operator is a friendly guy and the is very passionate about camping. He cares about his work. There were a short rainfall in the evening. Right after the rain, he visited all campers to give out paper egg trays. He said that there tend to be more mosquitos right after rainfall. Burning egg trays can help to keep out mosquitos. I think this is a nice gesture.
+The operator is a friendly guy and the is very passionate about camping. He cares about his work. There was a short rainfall in the evening. Right after the rain, he visited all campers to give out paper egg trays. He said that there tend to be more mosquitos right after rainfall. Burning egg trays can help to keep out mosquitos. I think this is a nice gesture.
+
+![Paper egg tray can burn quite long](egg_tray.jpg "Paper egg tray can burn quite long")
 
 There is a fire pit in the middle of the campsite. You can setup bonfire with friends at the fire pit. There is also 2 swings overseeing the beach.
+
+![Fire pit](fire_pit.jpg "Fire pit")
 
 # Booking And Getting There
 
@@ -24,15 +30,21 @@ This [WhatsApp business account](https://www.whatsapp.com/product/69132548253546
 
 # Campground
 
-Campers have pre-allocated slots for setting up tent. If you are 2/3 person tent, try to book zone "A". This zone gives you an unobstructed view of the sea. If need a are bigger space for family-size tent, bigger space slots are further away from the sea.
+Campers have pre-allocated slots for setting up tent. If you have a 2/3 person tent, try to book zone "A". This zone gives you an unobstructed view of the sea. If you need a are bigger space for family-size tent, the slots are further away from the sea.
+
+![Seaview](seaview.jpg "Seaview")
 
 The ground is a mixture of sand and soil. So it is softer then usual soil ground, but not as loose as pure sandy ground. I this is an ideal ground, not too hard to stake pegs and does not require long/specialized pegs for sand.
 
-It is generally a wide open space, lacking in trees. So it can get really hot on sunny days. Setting up a tarp takes some effort under the strong wind. I cannot setup a hammock due to lack of trees.
+It is generally a wide open space, but lacking trees. So it can get really hot on sunny days. Setting up a tarp takes some effort under the strong wind. I cannot setup a hammock due to lack of trees.
+
+![Wide open space](open_space.jpg "Wide open space")
 
 # Toilet
 
 Toilets are clean with taps and basins outside the toilets. Besides hooks, there are also plastic basket in each toilet. This is a nice touch. One of the cubicles is roofless, so you can get to enjoy showering _"under the sky"_. Toilets are equipped with motion-activated solar lights. So it will light up automatically at night when it detects motion. BTN is building more toilets at the moment.
+
+![Toilet](toilet.jpg "Toilet")
 
 BTN has treated water supply, so the water is quite clean. The operator mentions that water pressure is quite low in this remote area. Sometime the water supply may not be stable during peak season. Fortunately I have not encountered this problem while I was there.
 
