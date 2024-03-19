@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Injury - Tag - Hongster 鸿</title>
+        <link>http://localhost:1313/tags/injury/</link>
+        <description>Injury - Tag - Hongster 鸿</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>hong@mrleong.net (Hong)</managingEditor>
+            <webMaster>hong@mrleong.net (Hong)</webMaster><lastBuildDate>Tue, 04 Jan 2022 00:33:33 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/injury/" rel="self" type="application/rss+xml" /><item>
+    <title>How Lowering Is Hurting My Knees</title>
+    <link>http://localhost:1313/posts/how-lowering-hurting-knees/</link>
+    <pubDate>Tue, 04 Jan 2022 00:33:33 &#43;0800</pubDate>
+    <author>Hong</author>
+    <guid>http://localhost:1313/posts/how-lowering-hurting-knees/</guid>
+    <description><![CDATA[<p>My knees are injured. I am undergoing a series of treatment and they are slowly recovering. Multiple factors contribute to the injury. Besides flat feet, incorrect posture/action plays a part too.</p>]]></description>
+</item>
+</channel>
+</rss>

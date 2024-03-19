@@ -1,0 +1,38 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Food - Category - Hongster 鸿</title>
+        <link>http://localhost:1313/categories/food/</link>
+        <description>Food - Category - Hongster 鸿</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>hong@mrleong.net (Hong)</managingEditor>
+            <webMaster>hong@mrleong.net (Hong)</webMaster><lastBuildDate>Fri, 06 May 2022 14:17:22 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/food/" rel="self" type="application/rss+xml" /><item>
+    <title>Favorite KV Food Places</title>
+    <link>http://localhost:1313/food/favorite-klang-valley-food-places/</link>
+    <pubDate>Fri, 06 May 2022 14:17:22 &#43;0800</pubDate>
+    <author>Hong</author>
+    <guid>http://localhost:1313/food/favorite-klang-valley-food-places/</guid>
+    <description><![CDATA[This is a listing of my favorite food places in Klang Valley.
+China Cuisine Restoran Fu Cheng 福成
+Address: 6, Jalan 1/77b, Jalan Changkat Thambi Dollah, 55100 Kuala Lumpur
+Japanese Ramen Bari-Uma Ramen
+Address: Lot L3-11, Level 3, Jaya Shopping Centre, Jalan Professor Khoo Kay Kim, Seksyen 14, 46100 Petaling Jaya, Selangor
+Pork Noodle Omega Pork Noodle @ Sri Petaling
+Address: No 74, Ground Floor, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000 Kuala Lumpur]]></description>
+</item>
+<item>
+    <title>Favorite Johor Food Places</title>
+    <link>http://localhost:1313/food/favorite-johor-food-places/</link>
+    <pubDate>Sun, 20 Feb 2022 17:47:22 &#43;0800</pubDate>
+    <author>Hong</author>
+    <guid>http://localhost:1313/food/favorite-johor-food-places/</guid>
+    <description><![CDATA[This is a listing of my favorite food places in Johor.
+Beef Noodle 大丰牛肉面
+Address: 12, Jalan Kasa 6, Taman Sentosa, 80150 Johor Bahru, Johor
+Burger Woodfire
+Address: Eco Spring, SL006, Spring Labs, Lot D, Jalan Ekoflora Utama, 81100 Johor Bahru, Johor
+Chicken Chop Gebekk western Food
+Address: Unit SL-007, Spring Lab, Lok K, Jalan Ekoflora Utama, Taman Ekoflora, 81100 Johor Bahru, Johor
+Restoran Hua Mui 华美
+Address: 131, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor]]></description>
+</item>
+</channel>
+</rss>

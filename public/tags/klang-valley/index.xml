@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Klang Valley - Tag - Hongster 鸿</title>
+        <link>http://localhost:1313/tags/klang-valley/</link>
+        <description>Klang Valley - Tag - Hongster 鸿</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>hong@mrleong.net (Hong)</managingEditor>
+            <webMaster>hong@mrleong.net (Hong)</webMaster><lastBuildDate>Fri, 06 May 2022 14:17:22 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/klang-valley/" rel="self" type="application/rss+xml" /><item>
+    <title>Favorite KV Food Places</title>
+    <link>http://localhost:1313/food/favorite-klang-valley-food-places/</link>
+    <pubDate>Fri, 06 May 2022 14:17:22 &#43;0800</pubDate>
+    <author>Hong</author>
+    <guid>http://localhost:1313/food/favorite-klang-valley-food-places/</guid>
+    <description><![CDATA[This is a listing of my favorite food places in Klang Valley.
+China Cuisine Restoran Fu Cheng 福成
+Address: 6, Jalan 1/77b, Jalan Changkat Thambi Dollah, 55100 Kuala Lumpur
+Japanese Ramen Bari-Uma Ramen
+Address: Lot L3-11, Level 3, Jaya Shopping Centre, Jalan Professor Khoo Kay Kim, Seksyen 14, 46100 Petaling Jaya, Selangor
+Pork Noodle Omega Pork Noodle @ Sri Petaling
+Address: No 74, Ground Floor, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000 Kuala Lumpur]]></description>
+</item>
+</channel>
+</rss>

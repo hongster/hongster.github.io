@@ -1,6 +1,8 @@
 ---
 title: "Yaka Campsite Review"
 date: 2024-01-15T23:02:23+08:00
+categories: ["Camping"]
+tags: ["review"]
 draft: false
 ---
 

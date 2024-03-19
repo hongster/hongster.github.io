@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Thoughts - Tag - Hongster 鸿</title>
+        <link>http://localhost:1313/tags/thoughts/</link>
+        <description>Thoughts - Tag - Hongster 鸿</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>hong@mrleong.net (Hong)</managingEditor>
+            <webMaster>hong@mrleong.net (Hong)</webMaster><lastBuildDate>Tue, 31 Jan 2023 10:10:27 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/thoughts/" rel="self" type="application/rss+xml" /><item>
+    <title>Frustrated With Mistakes</title>
+    <link>http://localhost:1313/posts/frustrated-with-mistakes/</link>
+    <pubDate>Tue, 31 Jan 2023 10:10:27 &#43;0800</pubDate>
+    <author>Hong</author>
+    <guid>http://localhost:1313/posts/frustrated-with-mistakes/</guid>
+    <description><![CDATA[<p>While I was practicing dancing last night, I was frustrated with making basic mistakes. The continuous swing movement from beat 2 to 3 in Waltz, body moving forward while stepping forward. These are basics, but I was not doing it well. This frustrates me, as I was thinking an advanced dancers should not be making such mistakes.</p>]]></description>
+</item>
+</channel>
+</rss>
