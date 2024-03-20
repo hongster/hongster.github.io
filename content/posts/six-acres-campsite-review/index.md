@@ -56,7 +56,9 @@ Male and female toilets are separated. Kampung style toilet with zinc walls.
 
 # General Information
 
-* Fee per person: ???
+* Contact: [+6019 7314 349](tel:+60197314349)
+* Fee per person: RM 30
+* Campsite: RM 10 per slot
 * Trash fee: *included*
-* Check-in time: after XX PM
-* Check-out time: before XX PM
+* Check-in time: after 2 PM
+* Check-out time: before 12 PM
