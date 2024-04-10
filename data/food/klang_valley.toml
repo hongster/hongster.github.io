@@ -9,6 +9,11 @@
         addresses = [
             {address = "Lot L3-11, Level 3, Jaya Shopping Centre, Jalan Professor Khoo Kay Kim, Seksyen 14, 46100 Petaling Jaya, Selangor", link = "https://goo.gl/maps/Vq2GGmTdp48LrAvBA"},
         ]
+    [[food."Porridge"]]
+        name = "Yee Kee Porridge Restaurant 余记粥馆"
+        addresses = [
+            {address = "No. 42, 1 & 43-1, Jalan 4/1, Taman Bukit Serdang, 43300 Seri Kembangan, Selangor", link = "https://maps.app.goo.gl/83BT7ob41JisjUyQ7"},
+        ]
     [[food."Pork Noodle"]]
         name = "Omega Pork Noodle @ Sri Petaling"
         addresses = [

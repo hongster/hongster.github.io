@@ -74,6 +74,16 @@
         addresses= [
             { address = "36A1, Jalan Kolam Air, Taman Kolam Air, 80100 Johor Bahru, Johor", link = "https://goo.gl/maps/7qYCUwkA7XrT6GdQ7" },
         ]
+    [[food."麻辣锅"]]
+        name = "XLL Malahotpot 香辣辣麻辣香锅"
+        addresses = [
+            { address = "45, Jln Austin Height 8/8, Taman Mount Austin, 81100 Johor Bahru, Johor", link = "https://maps.app.goo.gl/GfjwpbdNjDxRfLbv7"},
+            { address = "28, Jalan Indah 15/3, Taman Bukit Indah, 81200 Nusajaya, Johor", link = "https://maps.app.goo.gl/7EEKFEVKqbo2gtjh6"},
+            { address = "189, Jalan Sri Pelangi, Taman Pelangi, 80400 Johor Bahru, Johor", link = "https://maps.app.goo.gl/Usepoboe62ZvggEz9"},
+            { address = "3, Jln Permas 10/5, Bandar Baru Permas Jaya, Masai Johor Permas, 81750, Johor", link = "https://maps.app.goo.gl/wCHuboykt9NqGHPT8"},
+            { address = "299, Jalan Kenanga 29/9, Taman Indahpura, 81000 Kulai, Johor", link = "https://maps.app.goo.gl/RuYvshpRbdFjE9YM6"},
+            { address = "12, Jalan Duku, Kampung Masjid Lama, 86000 Kluang, Johor", link = "https://maps.app.goo.gl/fxZwF9k2sqG2t1ks9"},
+        ]
     [[food."Mee Rebus"]]
         name = "Mee Rebus House"
         addresses= [
@@ -91,14 +101,20 @@
         ]
     [[food."面粉粿"]]
         name = "真功夫手工面粉粿"
-        addresses= [
+        addresses = [
             { address = "G-09 Bistari Impian JB, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor", link = "https://goo.gl/maps/jiBUSatVjsTDQdSq6" },
             { address = "A19/A20, Lot 7713, No. 8-8B, Jalan Bukit Meldrum, Tanjung Puteri, 80300 Johor Bahru, Johor", link = "https://goo.gl/maps/Q7QDZp46RUT1HbmV6" },
         ]
     [[food."Noodle"]]
         name = "Old Times Recipe 老臣子"
-        addresses= [
+        addresses = [
             { address = "107, Jalan Sri Pelangi, Taman Pelangi, 80400 Johor Bahru, Johor", link = "https://goo.gl/maps/adwHHFFUPoL6SpFKA" },
+        ]
+    [[food."Noodle"]]
+        name = "财记鱼汤 Chai Ji Fish Soup"
+        addresses = [
+            { address = "250, Jalan Kiambang 10, Pusat Komersial Indah, Bandar Indahpura, 81000 Kulai", link = "https://maps.app.goo.gl/ZqaXNM1uoELpqqhe7" },
+            { address = "16, Jalan Jaya Putra 7/1, Bandar Jaya Putra, 81100 Johor Bahru", link = "https://maps.app.goo.gl/EDHP3QizsKE9SM457" },
         ]
     [[food."Pho"]]
         name = "Chimmy Chummy"
