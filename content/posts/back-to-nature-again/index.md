@@ -2,6 +2,7 @@
 title: "Back to Nature Again"
 date: 2023-12-18T14:32:32+08:00
 categories: ["Camping"]
+tags: ["review", "camping"]
 draft: false
 ---
 

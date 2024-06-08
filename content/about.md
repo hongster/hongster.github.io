@@ -5,7 +5,9 @@ menu: ["main"]
 draft: false
 ---
 
-**Hello world!** I am Hong, from Malaysia. This website is a playground for me to play with [GitHub Pages](https://pages.github.com/) and [Hugo static site generator](https://gohugo.io/). *I code, I eat, I dance.*
+**Hello world!** I am Hong, from Malaysia. I write about things that I encounter in my daily life. You can reach out to me at `hong {@} mrleong {dot} net`.
+
+> I code, I eat, I dance.
 
 ---
 

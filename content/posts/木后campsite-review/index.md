@@ -2,7 +2,7 @@
 title: "木后 Campsite Review"
 date: 2023-11-14T16:09:35+08:00
 categories: ["Camping"]
-tags: ["review"]
+tags: ["review", "camping"]
 draft: false
 ---
 

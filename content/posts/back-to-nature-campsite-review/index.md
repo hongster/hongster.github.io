@@ -2,7 +2,7 @@
 title: "Back To Nature Campsite Review"
 date: 2023-10-04T00:07:00+08:00
 categories: ["Camping"]
-tags: ["review"]
+tags: ["review", "camping"]
 draft: false
 ---
 

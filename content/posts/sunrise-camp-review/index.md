@@ -2,7 +2,7 @@
 title: "Sunrise Camp Review"
 date: 2023-10-10T11:01:16+08:00
 categories: ["Camping"]
-tags: ["review"]
+tags: ["review", "camping"]
 draft: false
 ---
 

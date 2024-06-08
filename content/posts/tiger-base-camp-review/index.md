@@ -2,7 +2,7 @@
 title: "Tiger Base Camp Review"
 date: 2023-09-28T16:04:29+08:00
 categories: ["Camping"]
-tags: ["review"]
+tags: ["review", "camping"]
 draft: false
 ---
 

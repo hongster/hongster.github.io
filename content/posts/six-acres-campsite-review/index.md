@@ -2,7 +2,7 @@
 title: "Six Acres Campsite Review"
 date: 2024-03-20T00:42:53+08:00
 categories: ["Camping"]
-tags: ["review"]
+tags: ["review", "camping"]
 draft: false
 ---
 
