@@ -1,0 +1,81 @@
+baseURL = 'https://www.mrleong.net/'
+enableEmoji = true
+languageCode = 'en-us'
+theme = "paper"
+title = 'Hong 鸿'
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+enableRobotsTXT = true
+
+# Paper theme https://github.com/nanxiaobei/hugo-paper
+#disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+
+[params]
+    # color style
+    color = 'gray'                           # linen, wheat, gray, light
+
+    # header social icons
+    #twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+    #github = 'hongster'                 # github.com/YOUR_GITHUB_ID
+    #instagram = 'hongster85'           # instagram.com/YOUR_INSTAGRAM_ID
+    #linkedin = 'hongster'             # linkedin.com/in/YOUR_LINKEDIN_ID
+    mastodon = 'https://fosstodon.org/@hongster'           # e.g. 'https://mastodon.instance/@xxx'
+    #threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+    #rss = true                                # show rss icon
+
+    # home page profile
+    avatar = 'hong@mrleong.net'                 # gravatar email or image url
+    name = 'Hong'
+    bio = "Collection of random thoughts"
+
+
+    # misc
+    disableHLJS = true                        # disable highlight.js
+    disablePostNavigation = true              # disable post navigation
+    monoDarkIcon = true                       # show monochrome dark mode icon
+    gravatarCdn = ''         # e.g. 'https://cdn.v2ex.com/gravatar/'
+    math = true                               # enable KaTeX math typesetting globally
+    localKatex = false                        # use local KaTeX js/css instead of CDN
+    graphCommentId = ""  # use graph comment (disqus alternative)
+    favicon = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=16" # customize the default favicon
+    appleTouchIcon = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=180" # customize the default Apple touch icon
+
+[menu]
+    [[menu.main]]
+        identifier = " food_johor"
+        name = "Food:Johor"
+        title = "Favorite food places in Johor"
+        url = "/food/favorite-johor-food-places"
+        weight = 3
+  [[menu.main]]
+        identifier = "food_kv"
+        name = "Food:KV"
+        title = "Favorite food places in Klang Valley"
+        url = "/food/favorite-klang-valley-food-places"
+        weight = 3
+# TODO: add tag cloud
+#   [[menu.main]]
+#         identifier = "tags"
+#         name = "Tags"
+#         url = "/tags/"
+#         title = "Tagged posts"
+#         weight = 4
+
+
+
+[services]
+    [services.googleAnalytics]
+        ID = 'UA-17448966-1'
+
+# Markup related configuration in Hugo
+[markup]
+    # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+    [markup.highlight]
+        # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+        noClasses = false
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            # whether to use HTML tags directly in the document
+            unsafe = true

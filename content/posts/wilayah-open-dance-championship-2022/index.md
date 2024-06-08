@@ -10,7 +10,7 @@ Attended Wilayah Open Dance Championship 2020, organised by Amy Lee ([Amy Dances
 
 <!--more-->
 
-![Group photo](/posts/wilayah-open-dance-championship-2022/WODC2022_group_photo.jpeg)
+![Group photo](WODC2022_group_photo.jpeg "Group photo")
 
 This is also my first physical competition with Ai Choo. Initially Ai Choo was reluctant to compete, eventually teacher managed to convince her. We started preparing in June and worked very hard for it.
 
@@ -22,7 +22,7 @@ For Waltz I want to improve my lowering, sways and swings.
 
 I was quite calmed right until I was standing in the holding area, waiting to enter the dance floor. I started to feel nervous. Fortunately Ai Choo calmed me down and helped me to stay focused.
 
-![First placing in Waltz & Quickstep](/posts/wilayah-open-dance-championship-2022/WODC2022_novice_I_prize.jpeg)
+![First placing in Waltz & Quickstep](WODC2022_novice_I_prize.jpeg "Waltz and Quickstep")
 
 # Need For Competition
 
