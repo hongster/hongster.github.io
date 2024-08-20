@@ -133,8 +133,15 @@ name = "About"
 url = "/about/"
 weight = 30
 
-[markup.highlight]
-noClasses = false
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+            unsafe = true
+
+  [markup.highlight]
+    noClasses = false
 
 [services]
   [services.googleAnalytics]
