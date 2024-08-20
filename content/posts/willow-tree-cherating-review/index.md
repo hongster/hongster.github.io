@@ -8,6 +8,8 @@ draft: false
 
 18 May 2024, this is my 9<sup>th</sup> camping trip. Willow Tree is a campsite located at Cherating, Kuantan, Pahang.
 
+<!--more-->
+
 # Getting There
 
 Search for "willow tree cherating" in either [Google Map](https://maps.app.goo.gl/P64vvFtzQVTgzpia8) or [Waze](https://www.waze.com/en/live-map/directions/my/pahang/balok/willow-tree-cherating?place=ChIJJ45huFWFyDERH3z-CgNERxQ). Neither app will lead you to the actual destination. Once the navigation app leads you to Jalan Kemaman, look out for "_Cherating Beach House Estate_" signboard and follow it.

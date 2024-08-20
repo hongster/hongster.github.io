@@ -6,7 +6,7 @@ tags: ["review", "camping"]
 draft: false
 ---
 
- Right after [TBC]({{< ref "/tiger-base-camp-review" >}}), I visited [Back To Nature](https://www.facebook.com/backtonaturecampsite) on 15<sup>th</sup> September 2023. BTN is located in Mersing, 2 hr 13 min (153 KM) drive from Johor Bahru. This is the second stop of my campsite hopping trip, here goes the review ...
+ Right after [TBC]({{< ref "/posts/tiger-base-camp-review" >}}), I visited [Back To Nature](https://www.facebook.com/backtonaturecampsite) on 15<sup>th</sup> September 2023. BTN is located in Mersing, 2 hr 13 min (153 KM) drive from Johor Bahru. This is the second stop of my campsite hopping trip, here goes the review ...
 
 <!--more-->
 

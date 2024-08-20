@@ -1,81 +1,141 @@
-baseURL = 'https://www.mrleong.net/'
-enableEmoji = true
-languageCode = 'en-us'
-theme = "paper"
-title = 'Hong 鸿'
-enableInlineShortcodes = true
-# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
-# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
-ignoreErrors = ["error-remote-getjson"]
+baseURL = "https://www.mrleong.net/"
+title = "Hong 鸿"
+paginate = 5
+theme = "PaperMod"
 enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pygmentsUseClasses = true
 
-# Paper theme https://github.com/nanxiaobei/hugo-paper
-#disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+[minify]
+disableXML = true
+minifyOutput = true
 
 [params]
-    # color style
-    color = 'gray'                           # linen, wheat, gray, light
+env = "production"
+title = "Hong 鸿"
+description = "Hong's personal blog"
+keywords = [ "Blog", "Ballroom Dance", "Camping" ]
+author = "Hong"
+images = [ "https://www.gravatar.com/avatar/7d37e5405950d1fac77cd499838beac5?s=160&d=identicon" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
 
-    # header social icons
-    #twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-    #github = 'hongster'                 # github.com/YOUR_GITHUB_ID
-    #instagram = 'hongster85'           # instagram.com/YOUR_INSTAGRAM_ID
-    #linkedin = 'hongster'             # linkedin.com/in/YOUR_LINKEDIN_ID
-    mastodon = 'https://fosstodon.org/@hongster'           # e.g. 'https://mastodon.instance/@xxx'
-    #threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
-    #rss = true                                # show rss icon
+  [params.assets]
+  favicon = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=32"
+  favicon16x16 = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=16"
+  favicon32x32 = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=32"
+  apple_touch_icon = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=180"
+  safari_pinned_tab = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=32"
 
-    # home page profile
-    avatar = 'hong@mrleong.net'                 # gravatar email or image url
-    name = 'Hong'
-    bio = "Collection of random thoughts"
+  [params.label]
+  text = "Home"
+  icon = "https://www.gravatar.com/avatar/7d37e5405950d1fac77cd499838beac5?s=160&d=identicon"
+  iconHeight = 35
 
+  [params.profileMode]
+  enabled = false
+  title = "Hong 鸿"
+  subtitle = "Hong's personal blog"
+  imageUrl = "https://www.gravatar.com/avatar/7d37e5405950d1fac77cd499838beac5?s=160&d=identicon"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "My image"
 
-    # misc
-    disableHLJS = true                        # disable highlight.js
-    disablePostNavigation = true              # disable post navigation
-    monoDarkIcon = true                       # show monochrome dark mode icon
-    gravatarCdn = ''         # e.g. 'https://cdn.v2ex.com/gravatar/'
-    math = true                               # enable KaTeX math typesetting globally
-    localKatex = false                        # use local KaTeX js/css instead of CDN
-    graphCommentId = ""  # use graph comment (disqus alternative)
-    favicon = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=16" # customize the default favicon
-    appleTouchIcon = "https://gravatar.com/avatar/681eebd3530e09d937013b86171324d27dd0ee1d837647803570f562290ddc37.png?s=180" # customize the default Apple touch icon
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
 
-[menu]
-    [[menu.main]]
-        identifier = " food_johor"
-        name = "Food:Johor"
-        title = "Favorite food places in Johor"
-        url = "/food/favorite-johor-food-places"
-        weight = 3
-  [[menu.main]]
-        identifier = "food_kv"
-        name = "Food:KV"
-        title = "Favorite food places in Klang Valley"
-        url = "/food/favorite-klang-valley-food-places"
-        weight = 3
-# TODO: add tag cloud
-#   [[menu.main]]
-#         identifier = "tags"
-#         name = "Tags"
-#         url = "/tags/"
-#         title = "Tagged posts"
-#         weight = 4
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
 
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "Welcome to my blog"
 
+  [[params.socialIcons]]
+  name = "mastodon"
+  url = "https://fosstodon.org/@hongster"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/hongster/"
+
+[params.analytics.google]
+SiteVerificationTag = "WilsEkq7VUHYdwiQ1CFM4H9M1JhNpUGEH4XjAHxVMzc"
+
+#[params.analytics.bing]
+#SiteVerificationTag = "XYZabc"
+
+#[params.analytics.yandex]
+#SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  #[params.editPost]
+  #URL = "https://github.com/<path_to_repo>/content"
+  #Text = "Suggest Changes"
+  #appendFilePath = true
+
+  # Fuzzy search. Need to add "search/" link to menu
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  limit = 10
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "food-johor"
+name = "Food:Johor"
+url = "/food/favorite-johor-food-places/"
+weight = 10
+
+[[menu.main]]
+identifier = "food-kv"
+name = "Food:KV"
+url = "/food/favorite-klang-valley-food-places/"
+weight = 15
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 30
+
+[markup.highlight]
+noClasses = false
 
 [services]
-    [services.googleAnalytics]
-        ID = 'UA-17448966-1'
-
-# Markup related configuration in Hugo
-[markup]
-    # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-    [markup.highlight]
-        # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
-        noClasses = false
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            # whether to use HTML tags directly in the document
-            unsafe = true
+  [services.googleAnalytics]
+    ID = 'G-4YLRPM7MH2'
