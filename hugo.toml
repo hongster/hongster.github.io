@@ -1,6 +1,5 @@
 baseURL = "https://www.mrleong.net/"
 title = "Hong 鸿"
-paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
