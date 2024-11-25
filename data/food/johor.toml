@@ -109,6 +109,7 @@
         name = "Early Mee 早点食面"
         addresses = [
             { address = "52, Jalan Jaya Putra 7/1, Taman JP Perdana, 81100 Johor Bahru, Johor", link = "https://maps.app.goo.gl/9otcBjVvHMQn7FQRA" },
+            { address = "22, Jalan Hang Tuah 27, Taman Skudai Baru, 81300 Skudai, Johor", link = "https://maps.app.goo.gl/FvBgkQ9cEWp3pjS7A" },
         ]
     [[food."Noodle"]]
         name = "Old Times Recipe 老臣子"

@@ -9,7 +9,7 @@
 
         {{ range .addresses }}
 
-Address: [{{ .address }}]({{ .link }})
+- [{{ .address }}]({{ .link }})
 
         {{ end }}
 
