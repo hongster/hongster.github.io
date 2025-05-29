@@ -145,3 +145,8 @@ weight = 30
 [services]
   [services.googleAnalytics]
     ID = 'G-4YLRPM7MH2'
+
+# https://gohugo.io/host-and-deploy/host-on-github-pages/#step-5
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
