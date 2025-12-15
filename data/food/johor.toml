@@ -94,6 +94,7 @@
         addresses= [
             { address = "89, Jalan Keris, Taman Sri Tebrau, 80050 Johor Bahru, Johor", link = "https://g.page/Zainalsplace?share" },
         ]
+    
     [[food."面粉粿"]]
         name = "Grandma Ong 王奶奶"
         addresses= [
@@ -104,6 +105,11 @@
         addresses = [
             { address = "G-09 Bistari Impian JB, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor", link = "https://goo.gl/maps/jiBUSatVjsTDQdSq6" },
             { address = "A19/A20, Lot 7713, No. 8-8B, Jalan Bukit Meldrum, Tanjung Puteri, 80300 Johor Bahru, Johor", link = "https://goo.gl/maps/Q7QDZp46RUT1HbmV6" },
+        ]
+    [[food."Nasi Briyani"]]
+        name = "MKR BISTRO"
+        addresses = [
+            { address = "R&F, 2B-01-21 Jalan Tanjung Puteri, Mercu 2, Tanjung Puteri, 80300 Johor Bahru, Johor", link = "https://maps.app.goo.gl/ZbvQB69vgtuoLeLU6" },
         ]
     [[food."Noodle"]]
         name = "Early Mee 早点食面"
@@ -156,6 +162,16 @@
         name = "Red Chili Thai Restaurant 红辣椒泰国餐馆"
         addresses = [
             { address = "22, Jalan Ekoflora 6/6, Taman Ekoflora, 81100 Johor Bahru, Johor", link = "https://goo.gl/maps/JhYBfg1h6CxBaX4N8" },
+        ]
+    [[food."Vegetarian"]]
+        name = "Veggie Story Cafe"
+        addresses = [
+            { address = "29-02, Jalan Sri Pelangi 3, Taman Pelangi, 80400 Johor Bahru, Johor", link = "https://maps.app.goo.gl/TTeouhy6WeHWyZvj9" },
+        ]
+    [[food."Vegetarian"]]
+        name = "快乐斋素食馆 Kuai Le Zhai"
+        addresses = [
+            { address = "16, Jalan Sutera, Taman Sentosa, 80150 Johor Bahru, Johor", link = "https://maps.app.goo.gl/W3QYgKuwYgJ4BxSC9" },
         ]
     [[food."Wonton Mee"]]
         name = "Kedai Kopi Xuu Yau 品苑云吞面"
