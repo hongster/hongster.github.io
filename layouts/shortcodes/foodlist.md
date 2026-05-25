@@ -1,4 +1,4 @@
-{{ $data := index .Site.Data.food (.Get 0) }}
+{{ $data := index hugo.Data.food (.Get 0) }}
 
 {{ range $index, $shops := $data.food }}
 
