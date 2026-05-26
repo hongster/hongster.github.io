@@ -40,11 +40,3 @@ There are days when it feels like my dancing has plateaued, and progress is movi
 I log about 6 hours of dancing a week. Compare that to a competitive dancer putting in 18 hours a week. Chronologically, a year has passed for both of us, but in terms of mat time, my entire year of training equals just four months of theirs.
 
 What feels like a lifetime to me is actually a very short window in real training hours. The challenge isn't a lack of talent or progress—it's a constraint on time. Now, the real puzzle is figuring out how to optimize the hours I do have.
-
-### Key Improvements Made:
-
--   **Structure & Flow:** Swapped passive sentences for active ones to keep the narrative moving quickly.
-    
--   **The "Math of Time" Section:** Tightened the comparison between 6 hours and 18 hours of training to make the realization punchier.
-    
--   **Tone:** Kept it grounded, analytical, and honest—exactly how a developer-mindset approaches a sport.
