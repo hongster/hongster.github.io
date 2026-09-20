@@ -11,5 +11,6 @@ draft: false
 
 * write a [tech blog](https://tech.mrleong.net/) ✍🏻
 * host an [Arch mirror](https://mirror.mrleong.net/archlinux/) in my homelab 🪞
-* am a foodie 😋
+* am a [camper]({{< ref "/categories/camping" >}}) 🏕️
 * am a [ballroom dancer]({{< ref "/categories/dancing" >}}) 🕺🏻
+* am a [foodie]({{< ref "/categories/food" >}}) 😋
