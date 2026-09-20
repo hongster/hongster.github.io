@@ -12,4 +12,4 @@ draft: false
 * write a [tech blog](https://tech.mrleong.net/) ✍🏻
 * host an [Arch mirror](https://mirror.mrleong.net/archlinux/) in my homelab 🪞
 * am a foodie 😋
-* am a [ballroom dancer](http://localhost:1313/categories/dancing/) 🕺🏻
+* am a [ballroom dancer]({{< ref "/categories/dancing" >}}) 🕺🏻
