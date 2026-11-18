@@ -1,11 +1,11 @@
 ---
 title: "About"
 date: 2022-01-02T13:57:45+08:00
-lastmod: 2026-05-25T12:10:00+08:00
+lastmod: 2026-11-18T14:29:00+08:00
 draft: false
 ---
 
-**Hello world!** I am Hong, from Malaysia. I write about things that I encounter in my daily life. You can reach out to me at `hong {@} mrleong {dot} net`.
+**Hello world!** I am Hong, from Malaysia. I write about things that I encounter in my daily life. You can reach out to me at `blog {@} mrleong {dot} net`.
 
 ## I ...
 
